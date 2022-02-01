@@ -1,0 +1,15 @@
+E:\proje\anadersler\proje1\obj\Debug\net6.0\proje1.csproj.AssemblyReference.cache
+E:\proje\anadersler\proje1\obj\Debug\net6.0\proje1.GeneratedMSBuildEditorConfig.editorconfig
+E:\proje\anadersler\proje1\obj\Debug\net6.0\proje1.AssemblyInfoInputs.cache
+E:\proje\anadersler\proje1\obj\Debug\net6.0\proje1.AssemblyInfo.cs
+E:\proje\anadersler\proje1\obj\Debug\net6.0\proje1.csproj.CoreCompileInputs.cache
+E:\proje\anadersler\proje1\bin\Debug\net6.0\proje1.exe
+E:\proje\anadersler\proje1\bin\Debug\net6.0\proje1.deps.json
+E:\proje\anadersler\proje1\bin\Debug\net6.0\proje1.runtimeconfig.json
+E:\proje\anadersler\proje1\bin\Debug\net6.0\proje1.dll
+E:\proje\anadersler\proje1\bin\Debug\net6.0\ref\proje1.dll
+E:\proje\anadersler\proje1\bin\Debug\net6.0\proje1.pdb
+E:\proje\anadersler\proje1\obj\Debug\net6.0\proje1.dll
+E:\proje\anadersler\proje1\obj\Debug\net6.0\ref\proje1.dll
+E:\proje\anadersler\proje1\obj\Debug\net6.0\proje1.pdb
+E:\proje\anadersler\proje1\obj\Debug\net6.0\proje1.genruntimeconfig.cache
